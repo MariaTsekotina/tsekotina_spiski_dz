@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "tsekotina_spiski_dz", "tsekotina_spiski_dz.pyproj", "{7794DFA2-EA83-4A6D-9682-0C7E15339643}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7794DFA2-EA83-4A6D-9682-0C7E15339643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7794DFA2-EA83-4A6D-9682-0C7E15339643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1D27B05-E4CC-4651-A623-7800F904580C}
+	EndGlobalSection
+EndGlobal
